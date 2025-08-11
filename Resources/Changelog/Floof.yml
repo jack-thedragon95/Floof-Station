@@ -7350,8 +7350,6 @@ Entries:
   changes:
     - type: Add
       message: People you're carrying will now show up in your examine popup.
-    - type: Add
-      message: Literal numbers in speech are now translated to words.
   id: 774
   time: '2025-08-10T00:37:45.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1221
@@ -7401,3 +7399,26 @@ Entries:
   id: 777
   time: '2025-08-10T04:44:51.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1307
+- author: Mnemotechnician
+  changes:
+    - type: Fix
+      message: >-
+        Subtles and subtle OOC messages should now correctly display over the
+        speaker's head.
+  id: 778
+  time: '2025-08-11T04:05:17.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1314
+- author: M3739
+  changes:
+    - type: Fix
+      message: Intercomms are functional for every channel again.
+  id: 779
+  time: '2025-08-11T04:10:18.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1315
+- author: M3739
+  changes:
+    - type: Fix
+      message: Melee weapon speeds have been corrected.
+  id: 780
+  time: '2025-08-11T04:11:09.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1313
