@@ -7498,3 +7498,10 @@ Entries:
   id: 789
   time: '2025-08-23T01:52:01.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1278
+- author: Raikyr0
+  changes:
+    - type: Tweak
+      message: Cheesed to Eat you, Rodentia can now eat chocolate.
+  id: 790
+  time: '2025-08-23T04:27:50.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1258
