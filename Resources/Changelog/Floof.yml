@@ -7489,3 +7489,12 @@ Entries:
   id: 788
   time: '2025-08-23T00:45:11.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1302
+- author: Mnemotechnician
+  changes:
+    - type: Add
+      message: >-
+        Added a set of commands to help add bodies (and hands!) to non-mob
+        entities. See `list addbody` or Floof-Station#1278 for more info.
+  id: 789
+  time: '2025-08-23T01:52:01.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1278
