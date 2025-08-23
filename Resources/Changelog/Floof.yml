@@ -7518,3 +7518,10 @@ Entries:
   id: 791
   time: '2025-08-23T04:28:27.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1261
+- author: Raikyr0
+  changes:
+    - type: Tweak
+      message: The Golden Cup can now be used to chug alcohol better.
+  id: 792
+  time: '2025-08-23T23:17:09.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1343
