@@ -7536,3 +7536,12 @@ Entries:
   id: 793
   time: '2025-08-23T23:19:31.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1328
+- author: Mnemotechnician
+  changes:
+    - type: Tweak
+      message: >-
+        A few more existing coats (acid raincoats and letterman jackets) are now
+        available in the loadouts.
+  id: 794
+  time: '2025-08-23T23:37:13.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1344
