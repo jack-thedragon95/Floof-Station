@@ -7468,3 +7468,17 @@ Entries:
   id: 786
   time: '2025-08-23T00:38:53.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1336
+- author: ashkitten
+  changes:
+    - type: Add
+      message: >-
+        Add Bilingual, Trilingual, and Quadrilingual traits, allowing you to
+        take more languages than ever before at the cost of your precious
+        points.
+    - type: Tweak
+      message: >-
+        Revert basic language allotment to one, effectively increasing the cost
+        of taking two basic languages by one point.
+  id: 787
+  time: '2025-08-23T00:42:29.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1318
