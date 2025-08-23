@@ -7505,3 +7505,16 @@ Entries:
   id: 790
   time: '2025-08-23T04:27:50.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1258
+- author: Raikyr0
+  changes:
+    - type: Tweak
+      message: Tweaked wires to build almost instantly
+    - type: Tweak
+      message: Re-enabled Water Vapor Canisters from Logistics
+    - type: Fix
+      message: Pigs give bacon now. Weird they didn't before.
+    - type: Add
+      message: Added Pig and Chicken Cubes.
+  id: 791
+  time: '2025-08-23T04:28:27.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1261
