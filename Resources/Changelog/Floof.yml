@@ -7457,3 +7457,14 @@ Entries:
   id: 785
   time: '2025-08-20T18:15:52.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1332
+- author: Mnemotechnician
+  changes:
+    - type: Tweak
+      message: >-
+        NPCs will now retaliate when attacked even if the attacker belongs to a
+        faction they are friendly to. This means that animal friend trait users
+        can ***no longer*** safely kill vent critters (though they can still
+        move them to a spot where they won't hurt anyone).
+  id: 786
+  time: '2025-08-23T00:38:53.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1336
