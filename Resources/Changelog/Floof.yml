@@ -7545,3 +7545,14 @@ Entries:
   id: 794
   time: '2025-08-23T23:37:13.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1344
+- author: friendofbugs
+  changes:
+    - type: Add
+      message: Added a Silly Resomi Plush
+    - type: Fix
+      message: >-
+        The Rat Logistics Officer and Bunny CMO plushies will now appear in
+        prize counter as intended
+  id: 795
+  time: '2025-08-24T00:08:49.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1309
