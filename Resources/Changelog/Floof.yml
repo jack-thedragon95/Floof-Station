@@ -7556,3 +7556,10 @@ Entries:
   id: 795
   time: '2025-08-24T00:08:49.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1309
+- author: Forzii
+  changes:
+    - type: Tweak
+      message: Added coos to Resomi.
+  id: 796
+  time: '2025-08-24T04:07:56.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1334
