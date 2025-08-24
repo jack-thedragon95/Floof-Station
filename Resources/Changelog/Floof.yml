@@ -7563,3 +7563,10 @@ Entries:
   id: 796
   time: '2025-08-24T04:07:56.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1334
+- author: ItsDzordz
+  changes:
+    - type: Tweak
+      message: added justice department slots to maps that were missing it
+  id: 797
+  time: '2025-08-24T17:55:17.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1347
