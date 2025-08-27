@@ -7586,3 +7586,10 @@ Entries:
   id: 799
   time: '2025-08-25T02:50:15.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1350
+- author: sprkl
+  changes:
+    - type: Fix
+      message: Tajara will no longer burn in space.
+  id: 800
+  time: '2025-08-27T23:53:35.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1353
