@@ -7593,3 +7593,10 @@ Entries:
   id: 800
   time: '2025-08-27T23:53:35.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1353
+- author: TheRealMasterChief117
+  changes:
+    - type: Add
+      message: Added the single clap emote. Use the emote wheel to use it!
+  id: 801
+  time: '2025-08-28T00:02:43.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1311
