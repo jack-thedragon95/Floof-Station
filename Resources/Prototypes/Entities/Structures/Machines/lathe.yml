@@ -350,6 +350,8 @@
       - ClothingBackpackSatchelHolding
       - ClothingBackpackDuffelHolding
       - WelderExperimental
+      - WelderIndustrial # Floof
+      - WelderIndustrialAdvanced # Floof
       - JawsOfLife
       - CoreSilver # Nyanotrasen - Silver Golem core
       - FauxTileAstroGrass
@@ -1228,6 +1230,8 @@
       - HolofanProjector
       - HoloprojectorField
       - WelderExperimental
+      - WelderIndustrial # Floof
+      - WelderIndustrialAdvanced # Floof
       - PowerDrill # Can make two of the three advanced tools - jaws of life are too OP to give them away
       - WeaponParticleDecelerator
       - ClothingMaskWeldingGas
