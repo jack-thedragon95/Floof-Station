@@ -1990,6 +1990,18 @@
       - PlushieRatLogisticsOfficer
       - PlushieBunnyChiefMedicalOfficer
       - PlushieAvianMysta
+      - PlushieBunnyStressRelief
+      - PlushieERTFox
+      - PlushieRescueFox
+      - PlushieArachneNobility
+      - PlushieEldritchCaptain
+      - PlushieLargeTailedFox
+      - PlushieTruePirateCaptain
+      - PlushieHawaiianShirtDoggo
+      - PlushieTiredCargoTechPlushie
+      - PlushieUnholyRed
+      - PlushieDetectiveKitty
+      - PlushieUrsineGal
       #Floof Plushies - End
   - type: EmagLatheRecipes
     emagStaticRecipes:
