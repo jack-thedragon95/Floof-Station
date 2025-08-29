@@ -7621,3 +7621,10 @@ Entries:
   id: 804
   time: '2025-08-29T08:51:23.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1346
+- author: M3739
+  changes:
+    - type: Fix
+      message: Ghosts can now properly filter out 'Subtle' messages.
+  id: 805
+  time: '2025-08-29T20:48:29.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1359
