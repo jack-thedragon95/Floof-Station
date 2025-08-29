@@ -7614,3 +7614,10 @@ Entries:
   id: 803
   time: '2025-08-29T08:43:09.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1305
+- author: Raikyr0
+  changes:
+    - type: Add
+      message: Added Australian and Medieval Accent
+  id: 804
+  time: '2025-08-29T08:51:23.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1346
