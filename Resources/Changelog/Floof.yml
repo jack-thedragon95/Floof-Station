@@ -7628,3 +7628,10 @@ Entries:
   id: 805
   time: '2025-08-29T20:48:29.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1359
+- author: ItsDzordz
+  changes:
+    - type: Add
+      message: 12 new plushies
+  id: 806
+  time: '2025-08-29T23:09:31.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1348
