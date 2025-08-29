@@ -7607,3 +7607,10 @@ Entries:
   id: 802
   time: '2025-08-28T01:32:15.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1352
+- author: Raikyr0
+  changes:
+    - type: Add
+      message: Chat is this real?
+  id: 803
+  time: '2025-08-29T08:43:09.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1305
