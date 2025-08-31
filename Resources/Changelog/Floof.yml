@@ -7642,3 +7642,10 @@ Entries:
   id: 807
   time: '2025-08-31T02:03:40.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1365
+- author: ashkitten
+  changes:
+    - type: Fix
+      message: The chef no longer appears to be "already used".
+  id: 808
+  time: '2025-08-31T03:11:12.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1367
