@@ -7635,3 +7635,10 @@ Entries:
   id: 806
   time: '2025-08-29T23:09:31.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1348
+- author: Wizden
+  changes:
+    - type: Fix
+      message: Fixed pulls breaking if the mob you are pulling dies
+  id: 807
+  time: '2025-08-31T02:03:40.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1365
