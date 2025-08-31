@@ -7663,3 +7663,12 @@ Entries:
   id: 810
   time: '2025-08-31T23:03:23.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1361
+- author: ashkitten
+  changes:
+    - type: Tweak
+      message: >-
+        The internal storage of slime people is no longer accessible from the
+        outside while wearing clothes.
+  id: 811
+  time: '2025-08-31T23:48:18.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1357
