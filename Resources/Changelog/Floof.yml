@@ -7656,3 +7656,10 @@ Entries:
   id: 809
   time: '2025-08-31T04:57:40.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1364
+- author: The Den
+  changes:
+    - type: Add
+      message: The hourly shuttle call is now handled via an automated OOC vote.
+  id: 810
+  time: '2025-08-31T23:03:23.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1361
