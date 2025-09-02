@@ -7679,3 +7679,12 @@ Entries:
   id: 812
   time: '2025-09-01T04:23:03.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1370
+- author: Raikyr0
+  changes:
+    - type: Fix
+      message: >-
+        Changed Radar Console to Mass Scanner, because a radar board makes a
+        mass scanner, why ain't it just a mass scanner board?
+  id: 813
+  time: '2025-09-02T16:42:47.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1374
