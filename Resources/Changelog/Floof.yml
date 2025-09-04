@@ -7705,3 +7705,10 @@ Entries:
   id: 815
   time: '2025-09-04T16:30:25.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1340
+- author: M3739
+  changes:
+    - type: Tweak
+      message: Rule 9.6 has been updated.
+  id: 816
+  time: '2025-09-04T19:53:09.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1387
