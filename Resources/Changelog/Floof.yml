@@ -7712,3 +7712,10 @@ Entries:
   id: 816
   time: '2025-09-04T19:53:09.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1387
+- author: M3739
+  changes:
+    - type: Fix
+      message: The shuttle vote system now understands what "no" means.
+  id: 817
+  time: '2025-09-05T05:19:24.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1372
