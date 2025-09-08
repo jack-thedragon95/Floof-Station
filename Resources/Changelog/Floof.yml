@@ -7746,3 +7746,12 @@ Entries:
   id: 820
   time: '2025-09-08T00:00:01.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1398
+- author: Mnemotechnician
+  changes:
+    - type: Fix
+      message: >-
+        The R&D console should now correctly preserve the research cost
+        multiplier after getting deconstructed.
+  id: 821
+  time: '2025-09-08T05:47:55.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1397
