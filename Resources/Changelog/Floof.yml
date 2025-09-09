@@ -7789,3 +7789,10 @@ Entries:
   id: 825
   time: '2025-09-09T06:03:17.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1116
+- author: M3739
+  changes:
+    - type: Tweak
+      message: The automatic shuttle call has been revised.
+  id: 826
+  time: '2025-09-09T06:05:51.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1405
