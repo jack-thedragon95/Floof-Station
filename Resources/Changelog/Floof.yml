@@ -7780,3 +7780,12 @@ Entries:
   id: 824
   time: '2025-09-09T05:48:06.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1391
+- author: Raikyr0
+  changes:
+    - type: Add
+      message: Added Heavy Dermal Armor with 3 flat physical damage reduction
+    - type: Tweak
+      message: Tweaked Dermal Armor to have 1.5 flat physical damage reduction
+  id: 825
+  time: '2025-09-09T06:03:17.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1116
