@@ -7771,3 +7771,12 @@ Entries:
   id: 823
   time: '2025-09-09T05:46:19.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1395
+- author: Mnemotechnician
+  changes:
+    - type: Fix
+      message: >-
+        Returning to body as a ghost should no longer garble your death time and
+        prevent returning to lobby as a consequence.
+  id: 824
+  time: '2025-09-09T05:48:06.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1391
