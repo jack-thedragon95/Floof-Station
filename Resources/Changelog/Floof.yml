@@ -7755,3 +7755,10 @@ Entries:
   id: 821
   time: '2025-09-08T05:47:55.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1397
+- author: Mudyin
+  changes:
+    - type: Tweak
+      message: Tweaked talos based on user feedback
+  id: 822
+  time: '2025-09-09T01:38:02.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1393
