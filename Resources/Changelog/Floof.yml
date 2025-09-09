@@ -7762,3 +7762,12 @@ Entries:
   id: 822
   time: '2025-09-09T01:38:02.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1393
+- author: The Den
+  changes:
+    - type: Add
+      message: >-
+        A couple of vulpkanin markings, two tone-wings and a sharp cobra hood
+        for unathi have been added
+  id: 823
+  time: '2025-09-09T05:46:19.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1395
