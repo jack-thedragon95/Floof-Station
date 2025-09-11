@@ -7803,3 +7803,12 @@ Entries:
   id: 827
   time: '2025-09-10T18:19:47.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1408
+- author: ItsDzordz
+  changes:
+    - type: Add
+      message: 3 new plushies
+    - type: Fix
+      message: The bunny stress relief plushie is now able to intake fluids.
+  id: 828
+  time: '2025-09-11T21:02:25.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1380
