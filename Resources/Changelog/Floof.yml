@@ -7846,3 +7846,12 @@ Entries:
   id: 832
   time: '2025-09-21T16:45:07.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1429
+- author: sprkl
+  changes:
+    - type: Tweak
+      message: >-
+        Engineer hardhats, instruments, lighters, and more can be treasured
+        heirlooms.
+  id: 833
+  time: '2025-09-21T16:46:04.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1421
