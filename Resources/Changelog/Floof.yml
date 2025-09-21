@@ -7897,3 +7897,10 @@ Entries:
   id: 837
   time: '2025-09-21T16:51:28.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1245
+- author: Raikyr0
+  changes:
+    - type: Tweak
+      message: Changed one of the secret ingredients inside Interdyne Herbals
+  id: 838
+  time: '2025-09-21T16:52:53.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1231
