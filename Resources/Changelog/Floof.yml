@@ -7855,3 +7855,10 @@ Entries:
   id: 833
   time: '2025-09-21T16:46:04.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1421
+- author: TheRealMasterChief117
+  changes:
+    - type: Tweak
+      message: Cold slowdowns are now less impactful.
+  id: 834
+  time: '2025-09-21T16:46:53.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1411
