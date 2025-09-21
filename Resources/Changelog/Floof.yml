@@ -7839,3 +7839,10 @@ Entries:
   id: 831
   time: '2025-09-14T01:33:47.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1418
+- author: KyuPolaris
+  changes:
+    - type: Remove
+      message: Removed Raise Glimmer objective (pending rework)
+  id: 832
+  time: '2025-09-21T16:45:07.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1429
