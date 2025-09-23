@@ -7929,3 +7929,10 @@ Entries:
   id: 841
   time: '2025-09-23T18:44:11.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1426
+- author: Sprkl
+  changes:
+    - type: Tweak
+      message: Syndicate keys are no longer visible while in a headset.
+  id: 842
+  time: '2025-09-23T18:45:21.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1427
