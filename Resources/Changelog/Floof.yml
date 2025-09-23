@@ -7915,3 +7915,10 @@ Entries:
   id: 839
   time: '2025-09-23T18:29:49.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1252
+- author: Raikyr0
+  changes:
+    - type: Tweak
+      message: Buffed Necrosol
+  id: 840
+  time: '2025-09-23T18:31:00.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1297
