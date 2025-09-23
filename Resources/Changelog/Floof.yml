@@ -7904,3 +7904,14 @@ Entries:
   id: 838
   time: '2025-09-21T16:52:53.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1231
+- author: Raikyr0
+  changes:
+    - type: Add
+      message: Added variants of the N1984 and Energy Shotgun
+    - type: Tweak
+      message: Seperated weapons into their own tab for security
+    - type: Add
+      message: Added Energy Cutlass for Security
+  id: 839
+  time: '2025-09-23T18:29:49.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1252
