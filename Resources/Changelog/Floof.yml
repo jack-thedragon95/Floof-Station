@@ -7936,3 +7936,12 @@ Entries:
   id: 842
   time: '2025-09-23T18:45:21.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1427
+- author: router
+  changes:
+    - type: Tweak
+      message: >-
+        Shuffled some Rodentia sounds. They now have far more expressive
+        variation.
+  id: 843
+  time: '2025-09-23T18:45:50.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1430
