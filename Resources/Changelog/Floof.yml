@@ -7952,3 +7952,14 @@ Entries:
   id: 844
   time: '2025-09-23T18:53:32.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1415
+- author: ArcanissKenku
+  changes:
+    - type: Add
+      message: Added a steal objective for Krav Maga gloves for traitors.
+    - type: Remove
+      message: >-
+        Krav Maga gloves can no longer be obtained via loadouts as the Warden
+        locker already contains a pair.
+  id: 845
+  time: '2025-09-24T14:30:38.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1437
