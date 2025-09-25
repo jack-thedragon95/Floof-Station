@@ -7977,3 +7977,10 @@ Entries:
   id: 847
   time: '2025-09-25T14:26:27.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1409
+- author: ArcanissKenku
+  changes:
+    - type: Add
+      message: Judicial Department added to Kettle
+  id: 848
+  time: '2025-09-25T14:27:16.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1417
