@@ -7984,3 +7984,12 @@ Entries:
   id: 848
   time: '2025-09-25T14:27:16.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1417
+- author: WhiteLightningTwister
+  changes:
+    - type: Add
+      message: >-
+        Did a collective amount of fixing of minor errors, put things that were
+        missing from the original back.
+  id: 849
+  time: '2025-09-25T21:35:20.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1414
