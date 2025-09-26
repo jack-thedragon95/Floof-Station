@@ -7993,3 +7993,10 @@ Entries:
   id: 849
   time: '2025-09-25T21:35:20.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1414
+- author: Memeji
+  changes:
+    - type: Tweak
+      message: Increased minimum width and height for Vox.
+  id: 850
+  time: '2025-09-26T17:43:09.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1439
