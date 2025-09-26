@@ -8000,3 +8000,15 @@ Entries:
   id: 850
   time: '2025-09-26T17:43:09.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1439
+- author: Wizden
+  changes:
+    - type: Add
+      message: >-
+        Smuggler stashes! Will get spawned as a round start event and can also
+        be found in a hacked ClothesMate. Will have loot from a large random
+        pool.
+    - type: Add
+      message: Smuggler stashes can now be bought from the syndicate uplink for 2TC.
+  id: 851
+  time: '2025-09-26T21:12:51.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1388
