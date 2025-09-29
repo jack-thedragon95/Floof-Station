@@ -8026,3 +8026,12 @@ Entries:
   id: 853
   time: '2025-09-29T16:18:09.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1433
+- author: Raikyr0
+  changes:
+    - type: Tweak
+      message: >-
+        Changed Limb Severing Threshold, Delimbing before death is possible
+        again, beheading will still be very hard.
+  id: 854
+  time: '2025-09-29T16:39:48.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1432
