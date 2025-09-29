@@ -8019,3 +8019,10 @@ Entries:
   id: 852
   time: '2025-09-29T16:06:10.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1441
+- author: ItsDzordz
+  changes:
+    - type: Add
+      message: Added 3 new plushies
+  id: 853
+  time: '2025-09-29T16:18:09.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1433
