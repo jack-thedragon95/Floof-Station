@@ -8042,3 +8042,10 @@ Entries:
   id: 855
   time: '2025-10-01T06:03:03.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1452
+- author: Raikyr0
+  changes:
+    - type: Fix
+      message: The Argenti is now properly labeled in the loadout.
+  id: 856
+  time: '2025-10-03T19:18:38.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1462
