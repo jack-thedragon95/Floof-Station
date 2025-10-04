@@ -8102,3 +8102,16 @@ Entries:
   id: 860
   time: '2025-10-04T11:24:23.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1386
+- author: Einstein Engines
+  changes:
+    - type: Add
+      message: >-
+        7 new mechs have been added, along with the relevant equipment and cargo
+        bounties.
+    - type: Tweak
+      message: >-
+        The H.O.N.K. has received an airtight cabin for voidborne honk
+        operations.
+  id: 861
+  time: '2025-10-04T12:56:15.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1390
