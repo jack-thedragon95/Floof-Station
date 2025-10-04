@@ -8115,3 +8115,12 @@ Entries:
   id: 861
   time: '2025-10-04T12:56:15.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1390
+- author: Gaybritishcow
+  changes:
+    - type: Add
+      message: Added Cane to Loadout
+    - type: Add
+      message: Made Cane craftable in the Medical techfab
+  id: 862
+  time: '2025-10-04T21:55:28.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1451
