@@ -8093,3 +8093,12 @@ Entries:
   id: 859
   time: '2025-10-04T08:32:56.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1456
+- author: Einstein Engines
+  changes:
+    - type: Add
+      message: >-
+        The document printer has been added. Embrace bureaucracy and print
+        templates without needing the template filing cabinet.
+  id: 860
+  time: '2025-10-04T11:24:23.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1386
