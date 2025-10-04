@@ -8131,3 +8131,10 @@ Entries:
   id: 863
   time: '2025-10-04T21:57:23.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1455
+- author: ItsDzordz
+  changes:
+    - type: Tweak
+      message: Updated Edge
+  id: 864
+  time: '2025-10-04T21:58:46.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1447
