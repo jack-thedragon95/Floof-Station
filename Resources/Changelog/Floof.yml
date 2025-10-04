@@ -8073,3 +8073,10 @@ Entries:
   id: 857
   time: '2025-10-03T19:24:07.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1463
+- author: Forzii
+  changes:
+    - type: Tweak
+      message: Vox can now receive uppies.
+  id: 858
+  time: '2025-10-04T08:29:14.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1466
