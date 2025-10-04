@@ -8124,3 +8124,10 @@ Entries:
   id: 862
   time: '2025-10-04T21:55:28.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1451
+- author: Gaybritishcow
+  changes:
+    - type: Add
+      message: Added the Nurse outfit to the Medical loadout.
+  id: 863
+  time: '2025-10-04T21:57:23.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1455
