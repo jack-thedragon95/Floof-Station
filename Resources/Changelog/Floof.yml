@@ -8080,3 +8080,16 @@ Entries:
   id: 858
   time: '2025-10-04T08:29:14.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1466
+- author: Gaybritishcow
+  changes:
+    - type: Add
+      message: Added Honey, Corn Oil, Olive Oil (Large), and Cream to the Chefvend.
+    - type: Tweak
+      message: Increased Flour, Rice, Cornmeal, and Sugar per bag from 50->100
+    - type: Tweak
+      message: Increased Egg Carton & Soy Milk quantities in Chefvend
+    - type: Tweak
+      message: Increased Chefvend restock price from 680->800 spesos.
+  id: 859
+  time: '2025-10-04T08:32:56.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1456
