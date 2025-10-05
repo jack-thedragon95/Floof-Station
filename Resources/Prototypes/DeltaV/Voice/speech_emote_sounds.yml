@@ -203,7 +203,7 @@
     Weh:
       collection: Weh
     Squeak:
-      path: /Audio/Animals/fox_squeak.ogg # Floof
+      path: /Audio/Animals/mouse_squeak.ogg
 
 - type: emoteSounds
   id: FemaleRodentia
@@ -233,7 +233,7 @@
     Weh:
       collection: Weh
     Squeak:
-      path: /Audio/Animals/fox_squeak.ogg # Floof
+      path: /Audio/Animals/mouse_squeak.ogg
 
 - type: emoteSounds
   id: UnisexChitinid
