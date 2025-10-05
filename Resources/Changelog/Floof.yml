@@ -8138,3 +8138,18 @@ Entries:
   id: 864
   time: '2025-10-04T21:58:46.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1447
+- author: Mnemotechnician
+  changes:
+    - type: Add
+      message: >-
+        The Vulpkanin and the Kitsune can now make fox sounds. The new emotes
+        have the chat triggers @ yips and @ whines.
+    - type: Tweak
+      message: >-
+        The old vulpkanin whine is now triggered by the emote @ whimpers,
+        because the sound it uses is in fact a dog whimper. If you have this
+        emote bound to a keybind, make sure to edit your keybinds.yml file after
+        the update.
+  id: 865
+  time: '2025-10-05T03:15:48.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1469
