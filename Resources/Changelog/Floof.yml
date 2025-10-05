@@ -8153,3 +8153,10 @@ Entries:
   id: 865
   time: '2025-10-05T03:15:48.0000000+00:00'
   url: https://github.com/Floof-Station/Floof-Station/pull/1469
+- author: Gaybritishcow
+  changes:
+    - type: Tweak
+      message: Changed rodentia sounds back to the original.
+  id: 866
+  time: '2025-10-05T03:21:51.0000000+00:00'
+  url: https://github.com/Floof-Station/Floof-Station/pull/1457
