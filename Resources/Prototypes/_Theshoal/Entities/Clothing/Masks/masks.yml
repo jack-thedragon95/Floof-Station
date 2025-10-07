@@ -17,7 +17,7 @@
     - Snout
 
 - type: entity
-  parent: [ClothingMaskBase]
+  parent: ClothingMaskBase
   id: ClothingMaskEnforcer
   name: enforcer gasmask
   description: The mask of the dreaded Shoal Enforcers.
@@ -28,6 +28,8 @@
     sprite: _Theshoal/Clothing/Mask/enforcer.rsi
   - type: Tag
     tags: []
+  - type: BreathMask
+  - type: IdentityBlocker
   - type: HideLayerClothing
     slots:
     - Snout
