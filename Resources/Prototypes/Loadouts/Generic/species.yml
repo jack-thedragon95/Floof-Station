@@ -12,6 +12,46 @@
     - ClothingOuterVestTank #Specialized outer-wear for holding large tanks.
 
 - type: loadout
+  id: LoadoutSpeciesAuralismask
+  category: Species
+  cost: 0
+  requirements:
+    - !type:CharacterSpeciesRequirement
+      species:
+        - Vox
+    - !type:CharacterItemGroupRequirement
+      group: LoadoutMasks
+  items:
+    - ClothingMaskAuralis
+
+- type: loadout
+  id: LoadoutSpeciesEnforcermask
+  category: Species
+  cost: 0
+  requirements:
+    - !type:CharacterSpeciesRequirement
+      species:
+        - Vox
+    - !type:CharacterItemGroupRequirement
+      group: LoadoutMasks
+  items:
+    - ClothingMaskEnforcer
+
+- type: loadout
+  id: LoadoutSpeciesspecializedmask
+  category: Species
+  cost: 0
+  requirements:
+    - !type:CharacterSpeciesRequirement
+      species:
+        - Vox
+    - !type:CharacterItemGroupRequirement
+      group: LoadoutMasks
+  items:
+    - ClothingMaskVoxSpecial
+
+
+- type: loadout
   id: LoadoutSpeciesEmergencyNitrogenTank
   category: Species
   cost: 0
