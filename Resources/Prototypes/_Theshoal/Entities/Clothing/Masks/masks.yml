@@ -20,7 +20,7 @@
   parent: ClothingMaskBase
   id: ClothingMaskEnforcer
   name: enforcer gasmask
-  description: The mask of the dreaded Shoal Enforcers.
+  description: The mask of the dreaded Shoal Enforcers. this mask has its armored plating removed
   components:
   - type: Sprite
     sprite: _Theshoal/Clothing/Mask/enforcer.rsi

@@ -11,10 +11,14 @@
   items:
     - ClothingOuterVestTank #Specialized outer-wear for holding large tanks.
 
+# start of vox masks
+
 - type: loadout
   id: LoadoutSpeciesAuralismask
   category: Species
   cost: 0
+  exclusive: true
+  canBeHeirloom: true
   requirements:
     - !type:CharacterSpeciesRequirement
       species:
@@ -28,6 +32,8 @@
   id: LoadoutSpeciesEnforcermask
   category: Species
   cost: 0
+  exclusive: true
+  canBeHeirloom: true
   requirements:
     - !type:CharacterSpeciesRequirement
       species:
@@ -41,6 +47,9 @@
   id: LoadoutSpeciesspecializedmask
   category: Species
   cost: 0
+  exclusive: true
+  canBeHeirloom: true
+  customColorTint: true
   requirements:
     - !type:CharacterSpeciesRequirement
       species:
@@ -50,6 +59,7 @@
   items:
     - ClothingMaskVoxSpecial
 
+#end of vox masks
 
 - type: loadout
   id: LoadoutSpeciesEmergencyNitrogenTank
